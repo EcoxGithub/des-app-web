@@ -1,0 +1,51 @@
+#titulo{
+    background-color: rgb(70, 92, 125);
+    width: 740px;
+    margin: auto;
+    padding: 10px;
+}
+
+#Menu{
+    background-color: rgba(49, 68, 217, 0.868);
+    width: 740px;
+    margin: auto;
+    padding: 10px;
+}
+
+.Demas{
+    background-color: rgb(119, 119, 119);
+    margin: auto;
+    width: 740px;
+    padding: 10px;
+}
+
+#modelado{
+    background-color: rgb(119, 119, 119);
+    margin: auto;
+    width: 500px;
+    padding: 130px;
+}
+
+#foto{
+    background-color: rgb(119, 119, 119);
+    margin: auto;
+    width: 500px;
+    padding: 130px;
+}
+
+#ilus{
+    background-color: rgb(119, 119, 119);
+    margin: auto;
+    width: 500px;
+    padding: 130px;
+}
+
+.informacion{
+    background-color: rgb(119, 119, 119);
+    margin: auto;
+    width: 300px;
+    padding: 230px;
+    align-content: center;
+   
+}
+
